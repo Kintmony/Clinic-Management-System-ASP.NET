@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head runat="server">
     <title></title>
@@ -13,7 +13,7 @@
 
     html
     {
-      background-image:url("/assets/Doctor.jpg");   
+      background:rgba(30, 160, 130 , 0.15);   
       background-size: cover;
       background-position: 0 -90px;
       background-attachment: fixed;
@@ -76,14 +76,12 @@
                     
                         <div class="col-sm-8 col-sm-offset-2 text">
                         
-                            <h1><strong>Medix4 Health Care</strong> Doctor Registration</h1>
+                            <h1><strong>UMaT Clinic Management System</strong> Doctor Registration</h1>
                             
                             <div class="description">
                             	<p>
-	                            	This is a free <strong>"Doctor registeration form"</strong> for Medix4 health Care. 
-	                            	Fill out the information of the Doctor to Register 
-	                            	
-                                    
+	                            	Free <strong>"Doctor registeration form"</strong>.
+	                            	Fill out the information to Register as a doctor.                          	
                             	</p>
                             
                             </div>
@@ -92,12 +90,9 @@
                     </div>
                     </div>
                    </div>
-            </div>
-        
+            </div>       
                                     
-                                    
-                                    
-                                    <!--  Doctor registration form start honay laga hai :)-->
+                                    <!--  Doctor registration form start -->
                                     
                                     <div class="container myclass">
 
@@ -126,7 +121,7 @@
                                     
                                     
                                     
-                                    <!-- sign up form start honay laga hai :)-->
+                                    <!-- sign up form start-->
                                     
                                     
                                         <div class="form-group">
@@ -209,9 +204,9 @@
 
 				                        
                                              
-                                             <asp:TextBox ID="Salary" runat="server" type="text"  placeholder="Salary in Rupees" Width="221px" ></asp:TextBox>
+                                             <asp:TextBox ID="Salary" runat="server" type="text"  placeholder="Salary in Ghana Cedis" Width="221px" ></asp:TextBox>
 
-                                                <asp:TextBox ID="Charges_per_visit" runat="server" type="text"  placeholder="Charges_per_visit in Rupees" Width="227px" ></asp:TextBox>
+                                                <asp:TextBox ID="Charges_per_visit" runat="server" type="text"  placeholder="Charges_per_visit in Cedis" Width="227px" ></asp:TextBox>
                                              <asp:TextBox ID="Exp" runat="server" type="text"  placeholder="Experience (0-5)" Width="229px" ></asp:TextBox>
                                         
                                         </div>
@@ -228,11 +223,11 @@
                                              <asp:DropDownList ID="Department" runat="server" Width="228px" Height="39px">
                                             
                                                  <asp:ListItem Text="Select Depatment" Value="0"></asp:ListItem>
-                                                 <asp:ListItem Text="Cardiology" Value="1"></asp:ListItem>
-                                                 <asp:ListItem Text="Orthopaedics" Value="2"></asp:ListItem>
+                                                 <asp:ListItem Text="Eye care" Value="1"></asp:ListItem>
+                                                 <asp:ListItem Text="Infections and Skin Diseases" Value="2"></asp:ListItem>
                                                  <asp:ListItem Text="ENT" Value="3"></asp:ListItem>
                                                  <asp:ListItem Text="Physiotherapy" Value="4"></asp:ListItem>
-                                                 <asp:ListItem Text="Neurology" Value="5"></asp:ListItem>
+                                                 <asp:ListItem Text="Psychology" Value="5"></asp:ListItem>
                                              
                                              </asp:DropDownList>
                                                                                         
@@ -256,7 +251,6 @@
 
 
 
-
                                     
                                          <div class="form-group">
 
@@ -267,28 +261,14 @@
                                         </div>
 
 
-                                    
-
-
-
+                              
 
 				                        <asp:button Text ="Add"  runat="server" type="submit" class="btn btn-primary" onclick="DoctorRegister" ></asp:button>
 				                <!-- onclick="signup" -->
                                         
                                     
-                                <!-- sing up ends here -->
-                                            
-                                    
-                                    
-
-			                    
-                                
-                                
-                                
-                                
-                                
-                                
-                                
+                                <!-- sing up ends here -->     
+                   
                                 </div>
                         	</div>
                         	
@@ -297,18 +277,6 @@
                     
                 </div>
             </div>
-            
-
-
-                                    
-
-        
-
-
-
-
-
-            
 
         <!-- Footer -->
         <footer ">
@@ -327,24 +295,13 @@
         		</div>
         	</div>
         </footer>
-
+        <!--SCRIPTS-->
         <!-- Javascript -->
         <script src="/assets/js/jquery-1.11.1.min.js"></script>
         <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
         <script src="/assets/js/jquery.backstretch.min.js"></script>
         <script src="/assets/js/scripts.js"></script>
-        
-        <!--[if lt IE 10]>
-            <script src="assets/js/placeholder.js"></script>
-        <![endif]-->
-
-
-
-
-
-
-
-     
+    
     
     
     </form>

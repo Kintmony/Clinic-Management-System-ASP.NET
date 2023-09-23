@@ -13,7 +13,7 @@
 
     html
     {
-      background-image:url("/assets/staff9.jpg");   
+      background-color:#429782;   
       background-size: cover;
       background-position: 0 -90px;
       background-attachment: fixed;
@@ -76,11 +76,11 @@
                     
                         <div class="col-sm-8 col-sm-offset-2 text">
                         
-                            <h1><strong>Medix4 Health Care</strong> Staff Registration Form</h1>
+                            <h1><strong>UMaT Hospital</strong> Staff Registration Form</h1>
                             
                             <div class="description">
                             	<p>
-	                            	This is a <strong>"registeration form"</strong> for Medix4 Health Care. 
+	                            	This is a <strong>"registeration form"</strong> for UMaT Hospital Staff. 
 	                            	Fill out the information to register the staff member 
 	                            	
                                     
@@ -222,16 +222,6 @@
                                     <!-- sing up ends here -->
 
 
-                                    
-
-
-
-
-
-
-
-
-
                                 </div>
                              </div>
                         </div>
@@ -277,18 +267,7 @@
         <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
         <script src="/assets/js/jquery.backstretch.min.js"></script>
         <script src="/assets/js/scripts.js"></script>
-        
-        <!--[if lt IE 10]>
-            <script src="assets/js/placeholder.js"></script>
-        <![endif]-->
-
-
-
-
-
-
-
-     
+             
     
     
     </form>

@@ -114,10 +114,7 @@
         <footer class="footer-distributed"  >
 
 			<div class="footer-left">
-
-				<h3>MedicX<span>4</span></h3>
-
-				<p class="footer-company-name">MedicX4 Health Care &copy; 2017</p>
+				<p class="footer-company-name">UMaT CLINIC MANAGEMENT SYSTEM &copy; 2023</p>
 			</div>
 
 
@@ -125,33 +122,25 @@
 
 				<div>
 					<i class="fa fa-map-marker"></i>
-					<p><span>Milaad St Block B</span> Faisal Town, Lahore</p>
+					<p><span>University of Mines and Technology</span> Tarkwa, Ghana</p>
 				</div>
 
 				<div>
 					<i class="fa fa-phone"></i>
-					<p>0322 - 7561001</p>
+					<p>CE300</p>
 				</div>
 
 				<div>
 					<i class="fa fa-envelope"></i>
-					<p><a href="mailto:support@medicx4.com">support@medicx4.com</a></p>
+					<p><a href="mailto:comingsoon@gmail.com">support@clinicapp.com</a></p>
 				</div>
 
 			</div>
 
 			<div class="footer-right">
 
-				<p class="footer-company-about">
-					<span>About the company</span>
-					Our mission is to provide quality health services to all in a comfortable and cozy environment.
-                    The clinic primarily offers consultations and is not equipped to take emergencies.
-				</p>
-
     			<div class="footer-icons">
-
-    				<a href="#"><i class="fa fa-facebook"></i></a>
-
+<!-- no icons yet-->
     			</div>
 
 			</div>
