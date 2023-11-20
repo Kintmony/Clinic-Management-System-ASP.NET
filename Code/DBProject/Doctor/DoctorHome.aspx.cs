@@ -1,15 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
 using DBProject.DAL;
 using System.Data;
 
 
 
-namespace doctor
+namespace doctor=
 {
     public partial class doctorhome : System.Web.UI.Page
     {

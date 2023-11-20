@@ -103,3 +103,7 @@ C:\Users\Testimony Atsu\source\repos\Clinic-Management-System-ASP.NET\Code\DBPro
 C:\Users\Testimony Atsu\source\repos\Clinic-Management-System-ASP.NET\Code\DBProject\obj\Debug\Clinic Management System.csproj.CopyComplete
 C:\Users\Testimony Atsu\source\repos\Clinic-Management-System-ASP.NET\Code\DBProject\obj\Debug\DBProject.dll
 C:\Users\Testimony Atsu\source\repos\Clinic-Management-System-ASP.NET\Code\DBProject\obj\Debug\DBProject.pdb
+C:\Users\Testimony Atsu\Documents\GitHub\Clinic-Management-System-ASP.NET\Code\DBProject\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+C:\Users\Testimony Atsu\Documents\GitHub\Clinic-Management-System-ASP.NET\Code\DBProject\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\Testimony Atsu\Documents\GitHub\Clinic-Management-System-ASP.NET\Code\DBProject\obj\Debug\DBProject.dll
+C:\Users\Testimony Atsu\Documents\GitHub\Clinic-Management-System-ASP.NET\Code\DBProject\obj\Debug\DBProject.pdb

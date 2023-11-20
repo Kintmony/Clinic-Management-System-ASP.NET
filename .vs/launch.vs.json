@@ -1,0 +1,13 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "exe": "",
+      "name": "DBProject.dll",
+      "project": "Code\\DBProject\\bin\\DBProject.dll",
+      "projectTarget": "",
+      "type": "dll"
+    }
+  ]
+}
