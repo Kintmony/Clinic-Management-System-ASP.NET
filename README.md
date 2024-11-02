@@ -88,30 +88,3 @@ Authentication: Windows Authentication
 <p align="center">
 <img src="../master/images/run1.png"/> 
 </p>
-
-<br>
-<hr>
-
-<h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/harismuneer/">Haris </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
- <a href="https://github.com/harismuneer/Ultimate-Facebook-Scraper"><img align="right" src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" alt="Ultimate Facebook Scraper (UFS)" width="200"/></a> - Maker of Things</h1> 
-
-
-### Creator of <a href="https://github.com/harismuneer/Ultimate-Facebook-Scraper">Ultimate Facebook Scraper</a> (one of the best software to collect Facebook data for research & analysis) 
-
-<hr>
-
-<h2 align="left">🌐 Connect</h2>
-<p align="left"></p>
-
-
-## 👨‍💻 Technical Skills & Expertise
-
-- Development of Web Applications, Mobile Applications
-<hr>
-<br>
-
-
-
-## Contact
-You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](
-)]()
